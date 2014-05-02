@@ -1,64 +1,64 @@
 [submodule "modules/E_Geometry"]
 	path = modules/E_Geometry
-	url = ../E_Geometry
+	url = git@github.com:PADrend/E_Geometry.git
 	branch = master
 [submodule "modules/E_GUI"]
 	path = modules/E_GUI
-	url = ../E_GUI
+	url = git@github.com:PADrend/E_GUI.git
 	branch = master
 [submodule "modules/E_MinSG"]
 	path = modules/E_MinSG
-	url = ../E_MinSG
+	url = git@github.com:MeisterYeti/E_MinSG.git
 	branch = master
 [submodule "modules/E_Rendering"]
 	path = modules/E_Rendering
-	url = ../E_Rendering
+	url = git@github.com:PADrend/E_Rendering.git
 	branch = master
 [submodule "modules/E_Sound"]
 	path = modules/E_Sound
-	url = ../E_Sound
+	url = git@github.com:PADrend/E_Sound.git
 	branch = master
 [submodule "modules/E_Util"]
 	path = modules/E_Util
-	url = ../E_Util
+	url = git@github.com:PADrend/E_Util.git
 	branch = master
 [submodule "modules/Geometry"]
 	path = modules/Geometry
-	url = ../Geometry
+	url = git@github.com:PADrend/Geometry.git
 	branch = master
 [submodule "modules/GUI"]
 	path = modules/GUI
-	url = ../GUI
+	url = git@github.com:PADrend/GUI.git
 	branch = master
 [submodule "modules/MinSG"]
 	path = modules/MinSG
-	url = ../MinSG
+	url = git@github.com:MeisterYeti/MinSG.git
 	branch = master
 [submodule "modules/Rendering"]
 	path = modules/Rendering
-	url = ../Rendering
+	url = git@github.com:PADrend/Rendering.git
 	branch = master
 [submodule "modules/Sound"]
 	path = modules/Sound
-	url = ../Sound
+	url = git@github.com:PADrend/Sound.git
 	branch = master
 [submodule "modules/Util"]
 	path = modules/Util
-	url = ../Util
+	url = git@github.com:PADrend/Util.git
 	branch = master
 [submodule "ThirdParty"]
 	path = ThirdParty
-	url = ../ThirdParty
+	url = git@github.com:PADrend/ThirdParty.git
 	branch = master
 [submodule "PADrend"]
 	path = PADrend
-	url = ../PADrendApplication
+	url = git@github.com:PADrend/PADrendApplication.git
 	branch = master
 [submodule "plugins"]
 	path = plugins
-	url = ../Plugins
+	url = git@github.com:PADrend/Plugins.git
 	branch = master
 [submodule "modules/EScript"]
 	path = modules/EScript
-	url = ../../EScript/EScript
+	url = https://github.com/EScript/EScript
 	branch = 0.7.0.Eli
