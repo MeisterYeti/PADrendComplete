@@ -8,7 +8,7 @@
 	branch = master
 [submodule "modules/E_MinSG"]
 	path = modules/E_MinSG
-	url = git@github.com:MeisterYeti/E_MinSG.git
+	url = git@github.com:MeisterYeti/E_MinSG_DynOOC.git
 	branch = master
 [submodule "modules/E_Rendering"]
 	path = modules/E_Rendering
@@ -32,7 +32,7 @@
 	branch = master
 [submodule "modules/MinSG"]
 	path = modules/MinSG
-	url = git@github.com:MeisterYeti/MinSG.git
+	url = git@github.com:MeisterYeti/MinSG_DynOOC.git
 	branch = master
 [submodule "modules/Rendering"]
 	path = modules/Rendering
