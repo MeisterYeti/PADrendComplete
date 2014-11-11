@@ -9,7 +9,7 @@
 [submodule "modules/E_MinSG"]
 	path = modules/E_MinSG
 	url = git@github.com:MeisterYeti/E_MinSG.git
-	branch = master
+	branch = opencl
 [submodule "modules/E_Rendering"]
 	path = modules/E_Rendering
 	url = git@github.com:PADrend/E_Rendering.git
@@ -33,11 +33,11 @@
 [submodule "modules/MinSG"]
 	path = modules/MinSG
 	url = git@github.com:MeisterYeti/MinSG.git
-	branch = master
+	branch = opencl
 [submodule "modules/Rendering"]
 	path = modules/Rendering
 	url = git@github.com:MeisterYeti/Rendering.git
-	branch = master
+	branch = opencl
 [submodule "modules/Sound"]
 	path = modules/Sound
 	url = git@github.com:PADrend/Sound.git
@@ -45,7 +45,7 @@
 [submodule "modules/Util"]
 	path = modules/Util
 	url = git@github.com:MeisterYeti/Util.git
-	branch = master
+	branch = opencl
 [submodule "ThirdParty"]
 	path = ThirdParty
 	url = git@github.com:PADrend/ThirdParty.git
