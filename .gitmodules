@@ -8,8 +8,8 @@
 	branch = master
 [submodule "modules/E_MinSG"]
 	path = modules/E_MinSG
-	url = git@github.com:MeisterYeti/E_MinSG_DynOOC.git
-	branch = master
+	url = git@github.com:MeisterYeti/E_MinSG.git
+	branch = DynOOC
 [submodule "modules/E_Rendering"]
 	path = modules/E_Rendering
 	url = git@github.com:PADrend/E_Rendering.git
@@ -32,8 +32,8 @@
 	branch = master
 [submodule "modules/MinSG"]
 	path = modules/MinSG
-	url = git@github.com:MeisterYeti/MinSG_DynOOC.git
-	branch = master
+	url = git@github.com:MeisterYeti/MinSG.git
+	branch = DynOOC
 [submodule "modules/Rendering"]
 	path = modules/Rendering
 	url = git@github.com:PADrend/Rendering.git
